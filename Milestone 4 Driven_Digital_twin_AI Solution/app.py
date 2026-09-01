@@ -1187,4 +1187,3 @@ if __name__ == '__main__':
         db.create_all()
         create_default_admin()   # <-- ADD THIS LINE
     app.run(debug=True)
-
